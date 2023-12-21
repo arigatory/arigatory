@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Arigatory's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=arigatory)](https://github.com/arigatory/leetcode-stats)
+[![Arigatory's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=arigatory)](https://leetcode.com/arigatory/)
 <!--
 **arigatory/arigatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
