@@ -1,8 +1,7 @@
 ### Hi there 👋
-[![Arigatory's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=arigatory)](https://leetcode.com/arigatory/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arigatory?theme=dark&font=Goldman)
 <!--
 **arigatory/arigatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
